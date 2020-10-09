@@ -3,7 +3,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 IP = '172.29.161.60'
 USER = 'admin'
-PASSWORD = 'Peg-12345!'
+PASSWORD = 'xxxxxxxx!'
 session = requests.Session()
 session.auth = (USER, PASSWORD)
 session.verify = False
