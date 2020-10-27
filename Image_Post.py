@@ -5,9 +5,9 @@ urllib3.disable_warnings(InsecureRequestWarning)
 #パラメーター
 user = "admin"
 old_password = "nutanix/4u"
-new_password = "Peg-12345!"
-user_name="Masaru Oikawa"
-company_name="DIS"
+new_password = "xxxxxxxx"
+user_name="Max"
+company_name="DI"
 job_title="Systems Engineer"
 IP = "172.29.161.60"
 virtio = "http://172.29.30.11/iso/Nutanix-VirtIO-1.1.5.iso"
