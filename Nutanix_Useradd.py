@@ -3,7 +3,7 @@ import json
 
 IP = "172.29.161.60"
 username = "admin"
-Password = "Peg-12345!"
+Password = "xxxxxxxx"
 print("How many users do you want to create?")
 num = int(input(""))
 #print(num)
